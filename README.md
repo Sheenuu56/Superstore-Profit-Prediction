@@ -11,7 +11,6 @@ This project predicts profit for a US Superstore using advanced regression techn
 ## 📁 Structure
 - `notebook/`: Jupyter Notebook for EDA + modeling
 - `data/`: Cleaned dataset
-- `output/`: Optional plots (feature importance, etc.)
 - `requirements.txt`: Libraries used
 
 ## 📊 Key Learnings
